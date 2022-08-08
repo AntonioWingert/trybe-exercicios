@@ -1,2 +1,2 @@
-Esse é meu repositorio com os exercicios realizados diariamente na trybe!
-# exercicios-trybe
+#Trybe
+###Esse repositório contem as atividades realizadas diariamente na Trybe!

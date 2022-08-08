@@ -1,0 +1,1 @@
+Nesse primeiro dia aprendemos sobre o GitHub, criamos uma conta e estamos atualizando ele com o aprendizado, assim como aprendemos a fazer commit, iniciar novas branchs e transicionar entre elas, criar nossa conta e utilizar SSH para proteção da nossa conta.

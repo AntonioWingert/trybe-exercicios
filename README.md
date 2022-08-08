@@ -1,1 +1,1 @@
-Aprendemos no dia de hoje a dar Commit, iniciar nossa configuração no GitHub, alem de branches e push's;
+Esse é meu repositorio com os exercicios realizados diariamente na trybe!

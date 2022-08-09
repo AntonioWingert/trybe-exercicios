@@ -1,2 +1,2 @@
-#Trybe
-###Esse repositório contem as atividades realizadas diariamente na Trybe!
+# Trybe
+Esse repositório contem as atividades realizadas diariamente na Trybe!

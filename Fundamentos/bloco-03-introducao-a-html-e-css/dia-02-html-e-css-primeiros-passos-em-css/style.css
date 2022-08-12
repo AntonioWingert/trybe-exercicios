@@ -1,37 +1,38 @@
 body {
-    font-size: 16px;
-  }
+  font-size: 16px;
+}
 
-  h1 {
-      font-size: 65px;
-      color: orange;
-      font-family: sans-serif;
-  }
-  ul {
-      background-color: aqua;
-  }
+h1 {
+  font-size: 65px;
+  color: orange;
+  font-family: sans-serif;
+}
 
-  .background-p-ul {
-      background-color: blueviolet;
-  }
+ul {
+  background-color: aqua;
+}
 
-  p {
-    font-weight: 600;
-    font-size: 3em;
-  }
-  
-  #lista1 {
-    background-color: yellow;
-    line-height: 50px;
-  }
+.background-p-ul {
+  background-color: blueviolet;
+}
 
-  #lista2 {
-    background-color: red;
-    text-align: end;
-  }
+p {
+  font-weight: 600;
+  font-size: 3em;
+}
 
-  #lista3 {
-    background-color: brown;
-    text-decoration: underline;
-    font-size: 20px;
-  }
+#lista1 {
+  background-color: yellow;
+  line-height: 50px;
+}
+
+#lista2 {
+  background-color: red;
+  text-align: end;
+}
+
+#lista3 {
+  background-color: brown;
+  text-decoration: underline;
+  font-size: 20px;
+}

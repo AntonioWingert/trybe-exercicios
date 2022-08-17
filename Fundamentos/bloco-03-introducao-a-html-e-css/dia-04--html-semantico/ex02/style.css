@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+img {
+    width: 200px;
+}
+
+.aside {
+    display:block;
+}
+
+footer { 
+    margin-top: 100px;
+}

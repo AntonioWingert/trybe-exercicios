@@ -1,0 +1,57 @@
+li {
+    background-color: yellow;
+}
+
+.par {
+    color: green;
+}
+
+.impar {
+    text-transform: uppercase;
+}
+
+h1, h2, h3 {
+    color: red;
+}
+
+.fonteitalico {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li .italic {
+    font-weight: 700;
+}
+
+.blue {
+    color: blue;
+}
+
+.rose {
+    background-color: rosybrown;
+}
+
+.overflow:hover {
+    font-weight: 700;
+    color: orange;
+}
+
+.w3s:hover {
+    font-weight: 700;
+    color: green;
+}
+
+.mdn:hover {
+    font-weight: 700;
+    color: black;
+}
+
+.devdocs:hover {
+    font-weight: 700;
+    color: yellow;
+}
+
+.trybe:hover {
+    font-weight: 700;
+    color: green;
+}
